@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naveen Venkatesan</title>
+    <link>https://naveenvenkatesan.com/</link>
+    <description>Recent content on Naveen Venkatesan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://naveenvenkatesan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://naveenvenkatesan.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://naveenvenkatesan.com/about/</guid>
+      <description>My Story I was born and grew up in the San Francisco Bay Area, and lived for a few years in India when I was younger. My undergraduate education was at UC Berkeley, where I studied chemical engineering and materials science, and worked in Professor Nitash Balsara&amp;rsquo;s research group on polymer electrolytes for lithium batteries. After graduating, I moved a few miles down the coast to UC Santa Barbara, where I recently completed my PhD in materials science.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://naveenvenkatesan.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://naveenvenkatesan.com/publications/</guid>
+      <description>Publications </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://naveenvenkatesan.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://naveenvenkatesan.com/research/</guid>
+      <description>Research </description>
+    </item>
+    
+  </channel>
+</rss>

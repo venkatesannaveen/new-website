@@ -1,0 +1,67 @@
+baseURL = "https://naveenvenkatesan.com"
+languageCode = "en-us"
+title = "Naveen Venkatesan"
+theme = "hello-friend-ng"
+
+[params]
+	[params.logo]
+		logoMark = ">"
+		logoText = "$ naveenvenkatesan"
+		logoHomeLink = "/"
+
+	[params.portrait]
+		path = "/img/headshot.jpg"
+		alt = "Portrait"
+		maxWidth = "200px"
+
+	# Social Icons
+	[[params.social]]
+		name = "email"
+		url = "mailto:naveen.venkatesan@gmail.com"
+	
+	[[params.social]]
+		name = "googlescholar"
+		url = "https://scholar.google.com/citations?user=7w_3668AAAAJ&hl=en"
+
+	[[params.social]]
+		name = "linkedin"
+		url = "https://www.linkedin.com/in/naveenvenkatesan/"
+
+    [[params.social]]
+		name = "github"
+		url = "https://github.com/venkatesannaveen"
+
+	[[params.social]]
+		name = "medium"
+		url = "https://naveenvenkatesan.medium.com/"
+
+[menu]
+	[[menu.main]]
+		identifier = "about"
+		name = "About Me"
+		url = "about/"
+
+	[[menu.main]]
+		identifier = "resume"
+		name = "Resume"
+		url = "resume/"
+
+	[[menu.main]]
+		identifier = "research"
+		name = "Research"
+		url = "research/"
+
+	[[menu.main]]
+        identifier = "publications"
+        name = "Publications"
+        url = "publications/"
+
+    [[name.main]]
+        identifier = "photos"
+        name = "Photos"
+        url = "photos/"
+
+    [[name.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "blog/"
